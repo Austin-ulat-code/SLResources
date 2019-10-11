@@ -1,7 +1,7 @@
 # SLResources
 Internet Resources for the SL course.
 
-## 2/10/2019
+## 02/10/2019
 
 * https://github.com/merlos/cedula-panama
 * https://www.scootersoftware.com/download.php
