@@ -1,7 +1,7 @@
 # SLResources
 Internet Resources for the SL course.
 
-## 1/10/2019
+## 01/10/2019
 
 * https://checkstyle.org/eclipse-cs/#!/
 * https://www.vogella.com/tutorials/Checkstyle/article.html
